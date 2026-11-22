@@ -1,4 +1,4 @@
-# Robust Text Classification Using Domain Generalization: A Multi-Dataset Study
+# Replication package for Robust Text Classification Using Domain Generalization: A Multi-Dataset Study
 
 ## Overview
 
