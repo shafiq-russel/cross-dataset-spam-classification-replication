@@ -18,7 +18,7 @@ The study uses the following datasets:
 
 Each dataset serves once as the unseen target domain. Dataset download sources and preparation instructions are provided in the `data/README.md` file.
 
-*Note: The original datasets are not included in this repository. Users should download them from their respective sources and follow the preparation instructions.*
+The datasets are provided in the data/ directory. Each notebook loads the corresponding datasets for preprocessing, feature extraction, model training, and evaluation.
 
 ## Methodology
 
